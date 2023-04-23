@@ -4,7 +4,7 @@
 
 **x64:**
 
-```http://bit.ly/3xKZpIS```                                     
+http://bit.ly/3xKZpIS                                     
 
 
 # GhostOS10PRO 2023.02
@@ -13,11 +13,11 @@
 
 **x86:**
 
-```http://bit.ly/3RsIofq```
+http://bit.ly/3RsIofq
 
 **x64:**   
 
-```http://bit.ly/3HvFBh1```
+http://bit.ly/3HvFBh1
 
 
 # GhostOS10LTSC 2023.02
@@ -26,11 +26,11 @@
 
 **x86:**
 
-```http://bit.ly/3DFz3vk```
+http://bit.ly/3DFz3vk
 
 **x64:**
 
-```http://bit.ly/3wVQ1Sl```
+http://bit.ly/3wVQ1Sl
 
 
 # GhostOS10LTSB 2023.02
@@ -39,11 +39,11 @@
 
 **x86:**
 
-```http://bit.ly/3JDNK5S```
+http://bit.ly/3JDNK5S
 
 **x64:**
 
-```http://bit.ly/3HRyVLI```
+http://bit.ly/3HRyVLI
 
 
 # GhostOS10LTSB 2023.02
@@ -52,11 +52,11 @@
 
 **x86:**
 
-```http://bit.ly/3XmhW9H```
+http://bit.ly/3XmhW9H
 
 **x64:**
 
-```http://bit.ly/3CVvoZO```
+http://bit.ly/3CVvoZO
 
 
 # GhostOS8PRO 2023.02
@@ -65,11 +65,11 @@
 
 **x86:**
 
-```http://bit.ly/3GLGm5m```
+http://bit.ly/3GLGm5m
 
 **x64:**
 
-```http://bit.ly/3IWdMkx```
+http://bit.ly/3IWdMkx
 
 
 # GhostOS7PRO 2023.02
@@ -78,8 +78,8 @@
 
 **x86:**
 
-```https://bit.ly/3QAK9XF```
+https://bit.ly/3QAK9XF
 
 **x64:**
 
-```https://bit.ly/3IMJ5xU```
+https://bit.ly/3IMJ5xU
