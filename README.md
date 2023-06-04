@@ -46,40 +46,10 @@ http://bit.ly/3JDNK5S
 http://bit.ly/3HRyVLI
 
 
-# GhostOS10LTSB 2023.02
+# GhostOS10LTSB 2023.06
 
 ## Versión: 1507
 
-**x86:**
-
-http://bit.ly/3XmhW9H
-
 **x64:**
 
-http://bit.ly/3CVvoZO
-
-
-# GhostOS8PRO 2023.02
-
-## Versión: Update 3
-
-**x86:**
-
-http://bit.ly/3GLGm5m
-
-**x64:**
-
-http://bit.ly/3IWdMkx
-
-
-# GhostOS7PRO 2023.02
-
-## Versión: SP1
-
-**x86:**
-
-https://bit.ly/3QAK9XF
-
-**x64:**
-
-https://bit.ly/3IMJ5xU
+https://bit.ly/3WLOURf
