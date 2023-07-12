@@ -33,17 +33,13 @@ http://bit.ly/3DFz3vk
 http://bit.ly/3wVQ1Sl
 
 
-# GhostOS10LTSB 2023.02
+# GhostOS10LTSB 2023.07
 
 ## Versión: 1607
 
-**x86:**
-
-http://bit.ly/3JDNK5S
-
 **x64:**
 
-http://bit.ly/3HRyVLI
+https://bit.ly/44KizgB
 
 
 # GhostOS10LTSB 2023.06
